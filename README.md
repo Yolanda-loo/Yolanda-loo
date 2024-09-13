@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yolanda-loo or you can camm me Tebogo 
+- 👋 Hi, I’m @Yolanda-loo or you can call me Tebogo 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning how to code using python
 - 💞️ I’m looking to collaborate on working together with my team

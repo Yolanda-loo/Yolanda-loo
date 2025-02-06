@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to code using python
 - 💞️ I’m looking to collaborate on working together with my team
 - 📫 How to reach me on 0740544802
-- 😄 Pronouns: she, her , them
+- 😄 Pronouns: she
 - ⚡ Fun fact: i love cooking and baking 
 
 <!---

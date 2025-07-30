@@ -25,12 +25,12 @@ Microsoft Digital Literacy
 Web Designer Certification
 Project Planning (Spec Con)
 AWS APAC Solutions Architecture Job Simulation
+FNB Full stack Developer
 
 
 
 
 🚀 Featured Projects
-
 
 
 🌟 Project
@@ -78,7 +78,7 @@ Contributing to community-driven tech projects to foster digital skill empowerme
 Founder Institute South Africa: Assistant Administrator, supporting tech entrepreneurs with strategic thinking.
 WeThinkCode: Peer Mentor, helping peers with coding challenges and fostering collaborative learning.
 Higher Health SA: Volunteer for health screenings, promoting community wellness.
-Editor-in-Chief: Led my school newspaper, honing leadership and communication skills.
+Editor-in-Chief: Lead my school newspaper,learning leadership and communication skills.
 
 
 📫 Connect with Me
@@ -90,6 +90,3 @@ Portfolio: [Your Portfolio URL Here]
 
 
 "From hesitation to celebration! Pushing through challenges fuels growth." — Tebogo Mathaba
-
-
-Last updated: July 30, 2025

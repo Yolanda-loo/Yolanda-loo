@@ -86,7 +86,8 @@ Editor-in-Chief: Lead my school newspaper,learning leadership and communication 
 Location: Johannesburg, Gauteng, South Africa
 LinkedIn: Tebogo Mathaba
 Email: tebogomathaba09@gmail.com
-Portfolio: [Your Portfolio URL Here]
+
+Portfolio: https://yolanda-loo.github.io/tebogomathaba.github.io/
 
 
 "From hesitation to celebration! Pushing through challenges fuels growth." — Tebogo Mathaba

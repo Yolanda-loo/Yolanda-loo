@@ -88,6 +88,7 @@ LinkedIn: Tebogo Mathaba
 Email: tebogomathaba09@gmail.com
 
 Portfolio: https://yolanda-loo.github.io/tebogomathaba.github.io/
+Alternative Website: https://github.com/Yolanda-loo/web.github.io
 
 
 "From hesitation to celebration! Pushing through challenges fuels growth." — Tebogo Mathaba

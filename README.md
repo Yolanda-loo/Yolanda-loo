@@ -1,7 +1,7 @@
 Tebogo Mathaba 👨🏾‍💻
 
 
-Aspiring Software Engineer · Data Analyst · Full-Stack Developer · Power BI Specialist
+Software Engineer · Data Analyst · Full-Stack Developer · Power BI and completed my Diploma NQF 6 in Software engineering.
 Crafting innovative tech solutions with a blend of creativity, technical expertise, and a passion for business management.
 
 🧠 About Me
@@ -67,7 +67,6 @@ Python, Tkinter
 
 🧪 Currently Working On
 
-Completing my final year at WeThinkCode to become a proficient software engineer.
 Building a Progressive Web App for task management with offline capabilities.
 Enhancing my skills in cloud computing with Azure and AWS certifications.
 Contributing to community-driven tech projects to foster digital skill empowerment.

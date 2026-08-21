@@ -20,6 +20,7 @@ Tools & Frameworks: Power BI, Flask, React, Tailwind CSS, Azure
 Skills: Data Analysis, Full-Stack Development, Testing, Project Management, Customer Service
 Certifications: 
 Microsoft Azure Developer Associate (AZ-204)
+Microsoft AI Fundamentals
 Azure Fundamentals (AZ-900)
 Microsoft Digital Literacy
 Web Designer Certification
